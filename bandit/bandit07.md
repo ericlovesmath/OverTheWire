@@ -1,4 +1,4 @@
-# Level 7: Reading Hidden files in Directories
+# Level 7: Finding files with more conditions
 ## Goal
 Read the file in the server that are:
     owned by user bandit7

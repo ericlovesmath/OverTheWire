@@ -1,4 +1,4 @@
-# Level 6: Reading Hidden files in Directories
+# Level 6: Finding Files with conditions
 ## Goal
 Read the file in the directory "inhere" that are:
     human-readable

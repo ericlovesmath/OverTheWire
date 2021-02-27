@@ -1,4 +1,4 @@
-# Level 5: Reading Hidden files in Directories
+# Level 5: Finding Readable Files
 ## Goal
 Read the only human-readable file in the directory "inhere"
 ## Solution
