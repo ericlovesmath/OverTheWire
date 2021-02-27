@@ -1,2 +1,5 @@
-# overthewire_solutions
-Personal study of Overthewire CTF
+# OverTheWire Solutions
+
+Personal study of the Overthewire CTF
+
+Contains notes, solutions, and passphrases
