@@ -5,7 +5,8 @@ Read the file in the server that are:
     owned by group bandit6
     33 bytes in size
 ## Solution
-```cd inhere
+```
+cd inhere
 find / -group bandit6 -user bandit7 -size 33c 2>/dev/null`
     # "/" is the root 
     # "2>/dev/null" routes errors (FD #2) to "/dev/null"

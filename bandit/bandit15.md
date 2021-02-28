@@ -3,10 +3,7 @@
 Submitting the password of the current level to port 30000 on localhost.
 https://overthewire.org/wargames/bandit/bandit15.html
 ## Solution
-```ssh -i sshkey.private bandit14@localhost
-    # sshkey.private contained private ssh key
-    # All users on same machine, use localhost
-cat /etc/bandit_pass/bandit14
 ```
-etc...
-4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+nc localhost 30000
+```
+BfMYroe26WYalil77FoDi9qh59eK5xNr

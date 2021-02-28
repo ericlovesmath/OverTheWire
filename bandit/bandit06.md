@@ -5,7 +5,8 @@ Read the file in the directory "inhere" that are:
     1033 bytes in size
     not executable
 ## Solution
-```cd inhere
+```
+cd inhere
 find . -readable -size 1033c ! -executable`
     # ./maybehere07/.file2
 cat ./maybehere07/.file2

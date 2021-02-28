@@ -2,7 +2,8 @@
 ## Goal
 Find the unique password
 ## Solution
-```sort data.txt | uniq -u
+```
+sort data.txt | uniq -u
     # uniq only compares adjacent lines
     # Needs to sort first
     # -u flag prints only unique lines

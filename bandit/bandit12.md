@@ -2,7 +2,8 @@
 ## Goal
 All (a-z) and (A-Z) are rotated by 13 letters
 ## Solution
-```cat data.txt | tr [a-z][A-Z] [n-za-m][N-ZA-M]
+```
+cat data.txt | tr [a-z][A-Z] [n-za-m][N-ZA-M]
     # tr translates first to second
     # mapping function
     # Brackets not needed

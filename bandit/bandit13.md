@@ -3,7 +3,8 @@
 data.txt is a repeated compressed hexdump.
 Suggestion: Make a directory under /tmp and cp the data
 ## Solution
-```cp data.txt /tmp/data/data.txt
+```
+cp data.txt /tmp/data/data.txt
 cd /tmp/data
 xxd -r data.txt extracted
     # Un-hexdumps

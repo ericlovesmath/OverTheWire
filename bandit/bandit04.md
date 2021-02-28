@@ -2,7 +2,8 @@
 ## Goal
 Read a hidden file in the directory "inhere"
 ## Solution
-```cd inhere
+```
+cd inhere
 ls -a # Shows hidden files
 cat .hidden
 ```
