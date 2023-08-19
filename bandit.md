@@ -71,3 +71,13 @@ Bandit 12: Lots of decompression
 - `tar -xf [file]`, `gzip -d [file]`, `bzip2 -d [file]`
 - `rm -rf /tmp/tempfolder` to clean up
 - Passphrase: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+
+Bandit 13: SSH with private key
+
+- `ssh -i sshkey.private bandit14@localhost -p 2220 "cat /etc/bandit_pass/bandit14"`
+- Passphrase: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+
+Bandit 14: Netcat
+
+- `echo fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq | nc localhost 30000`
+- Passphrase: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
